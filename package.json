@@ -1,0 +1,47 @@
+{
+  "name": "corruptiquam",
+  "version": "1.0.0",
+  "description": "validation library",
+  "main": "index.js",
+  "engines": {
+    "node": ">=7"
+  },
+  "keywords": [
+    "koa",
+    "numquam",
+    "middleware",
+    "validation",
+    "unde",
+    "node-validator",
+    "koa-validation",
+    "koa-validator",
+    "express-validation",
+    "express-validator",
+    "koa validation",
+    "hic",
+    "file validation",
+    "input validation",
+    "qui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeoffreyBreitenberg/corruptiquam.git"
+  },
+  "author": "LilianaNolan",
+  "license": "ISC",
+  "dependencies": {
+    "file-type": "^6.1.0",
+    "mime-types": "^2.1.17",
+    "moment": "^2.18.1",
+    "read-chunk": "^2.1.0",
+    "validator": "^8.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3",
+    "should": "^13.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/GeoffreyBreitenberg/corruptiquam.git/issues"
+  },
+  "homepage": "https://github.com/GeoffreyBreitenberg/corruptiquam.git"
+}
